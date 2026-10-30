@@ -15,14 +15,6 @@
 <a href="https://github.com/nickpat22?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
-<a href="https://automltrainer.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-AutoML_Trainer-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nickpat22&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-
 </div>
 
 <br/>
@@ -75,8 +67,14 @@ class Nikunj:
 **AI / Machine Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" alt="Data libraries" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Joblib" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 **Web, Backend & Databases**
@@ -172,16 +170,7 @@ A music-focused software project exploring how to build a clean, enjoyable liste
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nickpat22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickpat22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=nickpat22&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nickpat22&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution graph" />
 
 </div>
 
